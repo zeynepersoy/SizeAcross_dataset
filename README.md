@@ -4,7 +4,7 @@ This is the GitHub repository of "GLOSSAQUA: a GLObal dataset of Size Spectra ac
 
 The dataset was financially supported by the [Iberian Society of Ecology](https://www.sibecol.org/en/) Advanced Early Career Researchers Project Grant (ACROSS project).
 
-Dataset last updated: 13.12.2024
+Dataset last updated: 17.12.2025
 
 <a href="https://doi.org/10.5281/zenodo.14701390"><img src="https://zenodo.org/badge/726016011.svg" alt="DOI"></a>
 
@@ -64,6 +64,8 @@ To be included in the GLOSSAQUA dataset, all studies had to meet the following c
 For studies derived from the literature review, we extracted size spectrum parameters (e.g., slope, intercept and linearity) directly from tables or by digitizing information from plots using WebPlotDigitizer software v.3.4 (Rohatgi 2020). For studies derived from the online survey (i.e., individual body size datasets), we calculated size spectrum parameters following the fitting recommendation provided by [Sprules (2022)](https://www.sciencedirect.com/science/article/abs/pii/B9780128191668000244?via%3Dihub). We highly recommend potential users of the GLOSSAQUA dataset look at [Edwards et al. 2019](https://github.com/andrew-edwards/sizeSpectra) to familiarize themselves with the different methods used to calculate the size spectrum.
 
 For all studies, we also extracted additional information related to geographic location, ecosystem type, taxonomic groups, sampling method and period (mainly month), size spectrum method, number of size classes and minimum and maximum size classes. 
+
+When digitizing the size spectrum parameters, sometimes we used the parameters from figures, rather than tables to get more information, or we calculated parameters ourselves using the available data. Please be aware of these disparities when you make use of the dataset.
  
 ## How to contribute to GLOSSAQUA
 
