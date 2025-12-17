@@ -28,7 +28,7 @@ To download and explore the dataset, download or clone the repository. Then, ope
 
 If you want to use any other environment other than RStudio, please make sure to change your working directory to the location fo this folder.
 
-The repository uses different packages (e.g., `here`,`dplyr`, `maps`, `scico`, `ggplot2`, `cowplot`, `forcats`, `gghalves`, `ghibli`) that can all be installed from CRAN using the `install.packages(“package name”)` code syntax.
+The repository uses different packages (e.g., `here`,`dplyr`, `maps`, `scico`, `ggplot2`, `cowplot`, `forcats`, `ghibli`) that can all be installed from CRAN using the `install.packages(“package name”)` code syntax.
 
 More details on how to [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) or [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository can be find in the linked websites.
 
