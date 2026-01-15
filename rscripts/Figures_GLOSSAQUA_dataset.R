@@ -10,9 +10,9 @@ library(forcats)
 library(ghibli)
 
 
-Source <- read.table(here("data", "GLOSSAQUA_DataSource.txt"), sep = "\t", header = TRUE)
+Source <- read.table(here("data", "GLOSSAQUA_DataSource.txt"), header = TRUE)
 Sample <- read.table(here("data", "GLOSSAQUA_Sample.txt"), sep = "\t", header = TRUE)
-Size <- read.table(here("data", "GLOSSAQUA_Size.txt"), sep = "\t", header = TRUE)
+Size <- read.table(here("data", "GLOSSAQUA_Size.txt"), header = TRUE)
 
 
 ################################################################################################################
